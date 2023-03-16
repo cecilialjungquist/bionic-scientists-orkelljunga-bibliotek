@@ -9,7 +9,7 @@ https://trello.com/b/gNnGbyT4/bionic-scientists
 
 ## Arbetsgång
 
-Vi började med att skapa en struktur i Trello, där vi arbetade med labels och olika kolumner (t ex product backlog, sprint backlog, todo osv). Senare valde vi att, utifrån bakgrundsinformationen i uppgiften, skriva user stories som lades till i Product backlog. När vi ansåg att vi hade tillräckliga user stories för att hantera kravspecifikationen, diskuterade vi varje user story och la till de vi ansåg vara viktigast i en temporär sprint backlog.
+Vi började med att skapa en struktur i Trello, där vi arbetade med labels och olika kolumner (t ex product backlog, sprint backlog, todo osv). Senare valde vi att, utifrån bakgrundsinformationen i uppgiften, skriva user stories som lades till i product backlog. När vi ansåg att vi hade tillräckliga user stories för att hantera kravspecifikationen, diskuterade vi varje user story och la till de vi ansåg vara viktigast i en temporär sprint backlog.
 Denna temporära sprint backlog diskuterades ytterligare och vi ändrade prioritering allt eftersom. 
 
 När första arbetet med sprint backloggen var klar (vår temporära blev då vår "permanenta"), adderade vi Acceptance Criteria och Definition of Done till varje user story. Detta tillförde att vi fick modifiera vår prioritering och antal user stories ytterligare en gång.
