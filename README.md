@@ -13,8 +13,6 @@ Vi började med att skapa en struktur i Trello, där vi arbetade med labels och 
 Denna temporära sprint backlog diskuterades ytterligare och vi ändrade prioritering allt eftersom. 
 
 När första arbetet med sprint backloggen var klar (vår temporära blev då vår "permanenta"), adderade vi Acceptance Criteria och Definition of Done till varje user story. Detta tillförde att vi fick modifiera vår prioritering och antal user stories ytterligare en gång.
-Efter detta satte vi story points (1p för varje arbetsdag för alla i teamet (3 pers)) och diskuterade bsckloggen ytterligare. Vi satte också ett sprint goal och bestämde oss för att på var sitt håll göra lite mer research.
+Efter detta satte vi story points (1p för varje arbetsdag för alla i teamet (3 pers)) och diskuterade backloggen ytterligare. Vi satte också ett sprint goal och bestämde oss för att på var sitt håll fundera över vårt arbete hittils. Vad kunde vi förbättra?
 
-När vi samlades åter valde vi att ändra vår sprint backlog ytterligare en gång. Vi bröt ner våra user stories i mindre user stories och ändrade poängsättningen till 1p per timme och team (en 2-veckorssprint = 80p). Detta för att se en större skillnad mellan olika user stories. Därefter estimerade vi på nytt varje story tills vi tillslut kände oss nöjda med planeringen. 
-
-
+När vi samlades åter valde vi att ändra vår sprint backlog ytterligare en gång. Vi bröt ner våra user stories i mindre delar, vilket ledde till att våra user stories blev fler, men "mindre" och bättre definierade. Vi ändrade poängsättningen till 1p per timme och team (en 2-veckorssprint = 80p). Detta för att se en större skillnad mellan olika user stories. Därefter estimerade vi på nytt varje story tills vi tillslut kände oss nöjda med planeringen. 
